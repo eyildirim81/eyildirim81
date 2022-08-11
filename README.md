@@ -18,7 +18,7 @@ Salesforce Developer</h1><br/>
  <lu/>
   <li><a href="https://trailblazer.me/id">Business Administration Specialist</a></li>
   <li><a href="https://trailblazer.me/id">Lightning Experience Reports & Dashboards Specialist</a></li>
-  <li><a href="https://trailblazer.me/id">App Customization Specialist</a></li>
+  <li><a href="https://trailblazer.me/id">Data Integration Specialist</a></li>
   <li><a href="https://trailblazer.me/id">Process Automation Specialist</a></li>
   <li><a href="https://trailblazer.me/id">Security Specialist</a></li>
   <li><a href="https://trailblazer.me/id">Apex Specialist</a></li>
