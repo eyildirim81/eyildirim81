@@ -14,17 +14,13 @@ Salesforce Developer</h1><br/>
   <li><a href="https://trailblazer.me/id">Salesforce Administrator</a></li>
   <li><a href="https://trailblazer.me/id">Salesforce Developer</a></li>
  <lu/>
-<!--
-**eyildirim81/eyildirim81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2> Superbadges:</h3></br>
+ <lu/>
+  <li><a href="https://trailblazer.me/id">Business Administration Specialist</a></li>
+  <li><a href="https://trailblazer.me/id">Lightning Experience Reports & Dashboards Specialist</a></li>
+  <li><a href="https://trailblazer.me/id">App Customization Specialist</a></li>
+  <li><a href="https://trailblazer.me/id">Process Automation Specialist</a></li>
+  <li><a href="https://trailblazer.me/id">Security Specialist</a></li>
+  <li><a href="https://trailblazer.me/id">Apex Specialist</a></li>
+ </lu>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
