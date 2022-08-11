@@ -9,7 +9,11 @@ Salesforce Developer</h1><br/>
   <li><a href="https://github.com/eyildirim81/Evenet-Management-Project">Event Management Project</a></li>
   <li>Hospitality Project</li>
  <lu/>
-
+  <h2> Certifications:</h3></br>
+  <lu>
+  <li><a href="[https://github.com/eyildirim81/Apex-Projects/tree/master/force-app/main/default/classes/classes](https://trailblazer.me/id)">Salesforce Administrator</a></li>
+  <li><a href="https://github.com/eyildirim81/Triggers/tree/master/force-app/main/default/triggers/triggers">Salesforce Developer</a></li>
+ <lu/>
 <!--
 **eyildirim81/eyildirim81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
